@@ -1,0 +1,1 @@
+SELECT Nombre, Apellido FROM tabla1
